@@ -1,0 +1,39 @@
+socialFish ultimate phishing tool such as
+
+Twitter
+
+stackoverflow
+
+wordpress
+
+github
+
+google
+
+facebook
+
+Installation :
+
+$ apt update 
+
+$ apt upgrade
+
+$ apt install git
+
+$ apt install python2
+
+$ git clone https://github.com/UndeadSec/SocialFish.git
+
+$ cd SocialFish
+
+$ chmod +x *
+
+$ pip2 install -r requirements.txt
+
+usage :
+
+$ python2 SocialFish.py
+
+Now select your target and it will generate an url using Ngrok
+
+then it send to victem
